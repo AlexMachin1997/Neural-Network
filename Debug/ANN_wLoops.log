@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\starwars\documents\intelligentsystemsstuff\ann_wloops\ann_wloops\source.cpp(120): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  ANN_wLoops.vcxproj -> C:\Users\Starwars\Documents\IntelligentSystemsStuff\ANN_wLoops\Debug\ANN_wLoops.exe

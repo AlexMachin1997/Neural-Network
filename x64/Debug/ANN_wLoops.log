@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\college and university folder\computing systems and development\douglas parr\year 3\intelligent-system-projects\ann_versions\ann_wloops\ann_wloops\source.cpp(93): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\college and university folder\computing systems and development\douglas parr\year 3\intelligent-system-projects\ann_versions\ann_wloops\ann_wloops\source.cpp(100): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\college and university folder\computing systems and development\douglas parr\year 3\intelligent-system-projects\ann_versions\ann_wloops\ann_wloops\source.cpp(278): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  ANN_wLoops.vcxproj -> D:\College And University Folder\Computing Systems and Development\Douglas Parr\Year 3\Intelligent-System-Projects\ANN_Versions\ANN_wLoops\x64\Debug\ANN_wLoops.exe
